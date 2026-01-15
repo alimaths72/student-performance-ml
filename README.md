@@ -57,10 +57,10 @@ It was chosen because:
 
 After training:
 
-- **R² Score ≈ 0.80**
-- **RMSE ≈ 1.7**
+- **R² Score ≈ 0.81**
+- **RMSE ≈ 1.71**
 
-This means the model explains about **80% of the variation** in final grades.
+This means the model explains about **81% of the variation** in final grades.
 
 ---
 
@@ -113,7 +113,7 @@ python src/predict.py
 
 You will be asked to enter:
 - Age  
-- Sex  
+- Gender  
 - Study time  
 - Failures  
 - Absences  
@@ -152,7 +152,7 @@ This project demonstrates:
 
 ## Author
 
-**Ali (Muhammad Ali, Shakeel Ahmad)**   
+**(Muhammad Ali, Shakeel Ahmad)**   
 
 ---
 
