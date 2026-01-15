@@ -66,23 +66,26 @@ This means the model explains about **81% of the variation** in final grades.
 
 ## Project Structure
 
+```
 student-performance-ml/
 │
 ├── data/
-│ ├── student-mat.csv
-│ └── student-por.csv
+│   ├── student-mat.csv
+│   └── student-por.csv
 │
 ├── models/
-│ ├── rf_with_grades.pkl
-│ └── feature_columns.pkl
+│   ├── rf_with_grades.pkl
+│   └── feature_columns.pkl
 │
 ├── src/
-│ ├── load_data.py
-│ ├── preprocess.py
-│ ├── train.py
-│ └── predict.py
+│   ├── load_data.py
+│   ├── preprocess.py
+│   ├── train.py
+│   └── predict.py
 │
 └── README.md
+```
+
 
 ---
 
