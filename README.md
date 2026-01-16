@@ -1,4 +1,4 @@
-<img width="1164" height="565" alt="image" src="https://github.com/user-attachments/assets/5524f01f-ac11-4568-91ff-5e9f285cf125" /># Student Performance Prediction using Machine Learning
+# Student Performance Prediction using Machine Learning
 
 This project predicts a student’s **final exam grade (G3)** using Machine Learning.  
 It uses student academic, demographic, and lifestyle data to build a predictive model.
